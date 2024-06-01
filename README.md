@@ -1,4 +1,4 @@
-Hi, I'm Soroush. I am interested in Maching Learning, NLP, and computer vision.
+Hi, I'm Soroush. I am interested in Maching Learning, NLP, and Computer Vision.
 
 <!---
 sorushn/sorushn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
