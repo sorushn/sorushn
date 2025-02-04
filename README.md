@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, Mathematics!**
 
-- 📫 How to reach me **sorushn@gmail.com**
+- 📫 How to reach me **sorushn\[at\]gmail\[dot\]com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
